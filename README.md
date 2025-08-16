@@ -46,7 +46,7 @@ Replace `<script-name>.py` with the name of the Python file containing the code.
 The AI model is initialized with a system prompt that instructs it to act as an intelligent travel assistant. It is programmed to provide travel recommendations based on real-time data and user preferences.
 
 ## Link
-App: https://ai-powered-travel-planner-kriah3v6hqronzm3iojtqr.streamlit.app/
+App:
 
 ## Contributing
 Contributions to improve the application are welcome! Feel free to fork the repository and submit pull requests with enhancements or bug fixes.
